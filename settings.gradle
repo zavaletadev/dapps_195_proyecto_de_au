@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "DAPPS T-195 Proyecto DE AU"
